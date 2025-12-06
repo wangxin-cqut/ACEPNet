@@ -79,6 +79,30 @@
 </tr>
 </table>
 
+## ROC Curves Comparison
+The ROC curves on three datasets are shown below:
+
+<h3>ROC curves of different methods on the NUAA-SIRST dataset</h3>
+<div align="center">
+  <img src="./Fig/Fig.2.png" width="80%">
+</div>
+<br>
+
+<h3>ROC curves of different methods on the NUDT-SIRST dataset</h3>
+<div align="center">
+  <img src="./Fig/Fig.3.png" width="80%">
+</div>
+<br>
+
+<h3>ROC curves of different methods on the IRSTD-1K dataset</h3>
+<div align="center">
+  <img src="./Fig/Fig.4.png" width="80%">
+</div>
+<br>
+  
+
+
+
 
 ## Usage
 
